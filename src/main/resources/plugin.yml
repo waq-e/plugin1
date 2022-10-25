@@ -1,0 +1,4 @@
+name: Plugin1
+version: '${project.version}'
+main: me.waqe.plugin1.Plugin1
+api-version: 1.19
